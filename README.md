@@ -1,6 +1,6 @@
 # CREAR O MORIR
 Andrés Oppenheimer
-La esperanza de Latinoamerica y las cinco claves de la INNOVACIÖN
+_La esperanza de Latinoamerica y las cinco claves de la INNOVACIÓN_
 
 ##Prólogo
 
@@ -12,9 +12,9 @@ La esperanza de Latinoamerica y las cinco claves de la INNOVACIÖN
 - Los países más exitosos desarrollan las mejores mentes y exportan productos
   con mayor valor agregado.
 
-<blockquote>**"Jamás hubiera podido crear Microsoft y revolucionar el mundo con las computadoras
+<blockquote>*"Jamás hubiera podido crear Microsoft y revolucionar el mundo con las computadoras
 si no hubiera tenido una excelente educación en la escuela secundaria, donde había
-una computadora de última generación" Bill Gates**</blockquote>
+una computadora de última generación" Bill Gates*</blockquote>
 
 - Una buena educación sin un entorno que fomente la innovación produce *muchos taxistas de
   de sorprendente cultura general*
