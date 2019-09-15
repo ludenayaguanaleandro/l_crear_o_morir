@@ -2,7 +2,7 @@
 Andrés Oppenheimer
 _La esperanza de Latinoamerica y las cinco claves de la INNOVACIÓN_
 
-##Prólogo
+## Prólogo
 
 - Economia Global del Conocimiento
 - Las naciones que más crecen - y que más reducen la pobreza - 
