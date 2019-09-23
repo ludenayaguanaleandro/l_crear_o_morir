@@ -29,6 +29,6 @@ Porque no tenemos un Steve Jobs en Latinoamérica -Cultura social y legal que no
 
 ## El mundo que se viene
 
-
+<blockquote>Estamos entrando en un periodo de transformación digital</blockquote>
 
 
